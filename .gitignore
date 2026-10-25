@@ -22,3 +22,10 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+#additional information on project
+extra.txt
+
+archives/
+docs/
+data/ghost.db
