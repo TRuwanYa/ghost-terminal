@@ -1,0 +1,6 @@
+# Python 3.11 or 3.12 recommended for this starter.
+# Install the CPU PyTorch wheel first; see INTENT_SETUP.md.
+sentence-transformers>=3.0,<6
+scikit-learn>=1.5,<2
+numpy>=1.26,<3
+joblib>=1.4,<2

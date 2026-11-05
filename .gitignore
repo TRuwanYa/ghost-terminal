@@ -29,3 +29,7 @@ extra.txt
 archives/
 docs/
 data/ghost.db
+data/
+
+# Generated models
+models/
